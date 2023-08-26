@@ -4,15 +4,13 @@
 <img align="right" width="400px" src="./output-onlinegiftools.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafsa-nadim&label=Profile%20views&color=0e75b6&style=flat" alt="hafsa-nadim" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hafsa-nadim" alt="hafsa-nadim" /></a> </p>
-
 - 🌱 I’m currently learning **MERN-Stack Development🔥**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hafsa-nadim](https://github.com/hafsa-nadim)
 
 - 📫 How to reach me **hafsanadim246@gmail.com**
 
-- ⚡ Fun fact **I can solve any problem🤞**
+- ⚡ Fun fact **I can solve any problem related to programming🤞**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
