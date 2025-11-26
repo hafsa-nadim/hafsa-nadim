@@ -26,4 +26,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hafsa-nadim&show_icons=true&locale=en&layout=compact" alt="hafsa-nadim" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hafsa-nadim&" alt="hafsa-nadim" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hafsa-nadim" alt="hafsa-nadim" /></p>
