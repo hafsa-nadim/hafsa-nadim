@@ -23,8 +23,9 @@
 </a> <a href="https://react.dev" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu0upjv_YeLhhuOv4ZJSWquBMa8WG2j1h7fw&s" alt="tailwind" width="40" height="40"/> </a><a href="https://react.dev" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkNFKDIKlSt_m4COIk9sCus6Kvgdz5iBRGPw&s" alt="tailwind" width="40" height="40"/> </a>
 <a href="https://react.dev" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCz3PAEJZKEsqwwkY935c7AhS1dHKBx2HLOg&s" alt="tailwind" width="40" height="40"/> </a>
 </p>
-
+<div align='center'>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hafsa-nadim&show_icons=true&locale=en&layout=compact" alt="hafsa-nadim" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hafsa-nadim" alt="hafsa-nadim" /></p>
 <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg"/>
+</div>
