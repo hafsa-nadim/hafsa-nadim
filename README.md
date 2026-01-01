@@ -50,9 +50,12 @@
 </div>
 
 ###
-<div align='center'>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hafsa-nadim&show_icons=true&locale=en&layout=compact" alt="hafsa-nadim" /></p>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=hafsa-nadim&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=hafsa-nadim&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+<div align='center'>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hafsa-nadim" alt="hafsa-nadim" /></p>
 <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg"/>
 </div>
