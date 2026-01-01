@@ -51,10 +51,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/6661165/93725426-2c289e80-fbea-11ea-96a4-f6490ccf2126.png" height="150" alt="trophy graph"  />
-</div>
+
 <div align='center'>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hafsa-nadim" alt="hafsa-nadim" /></p>
+  <div align="center">
+  <img src="https://user-images.githubusercontent.com/6661165/93725426-2c289e80-fbea-11ea-96a4-f6490ccf2126.png" height="150" alt="trophy graph"  />
+</div>
 <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg"/>
 </div>
