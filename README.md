@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sheikh Hafsa Nadeem</h1>
 <h3 align="center">A Passionate Full Stack Developer from Pakistan </h3>
 
-<img align="right" width="400px" src="https://media1.tenor.com/m/IF2JdxzmyN4AAAAC/coding-girl.gif">
+<img align="right" width="400px" src="https://img.freepik.com/premium-photo/programmer-woman-coding-computer-coder-girl_1168123-42920.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafsa-nadim&label=Profile%20views&color=0e75b6&style=flat" alt="hafsa-nadim" /> </p>
 
 - 🌱 I’m currently working as a **MERN-Stack Development🔥** at internee.pk , fiverr and also teach as a lead trainer at SMIT 💪.
